@@ -1,0 +1,14 @@
+Nuestro cliente está buscando abrir nuevas tiendas en la ciudad de México. Su criterio de busqueda se basa en conocer el ingreso
+promedio de las zonas. Por este motivo, está interesado en tener un mapa con el detalle de "cuánto ganan los mexicanos en esta zona?".
+
+Nosotros propusimos que sea un mapa a Nivel AGEB, con la información del ingreso promedio de los habiantes de dicha AGEB. 
+
+De esta manera, el cliente podrá explorar todos los AGEBs de la CDMX, en busca de aquellas que hagan match con el perfil que busca atacar.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Este ejercicio es un caso aplicado. Por tanto, se harán menciones a muchos tips y algunas librerias auxiliares, sin entrar a detalle
+necesariamante. Es decir, no se trata de una clase de "dplyr" o "leaflet". Es más bien, una clase en donde se combinan varias herramientas
+para logar terminar con un entregable apto para cliente.
+
+--------------------------------------------------------------------------------------------------------------------------
